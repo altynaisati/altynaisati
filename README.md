@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![banner](./altynaisati/img/github-profile.png);
+![banner](./img/github-profile.png);
 
 
 
