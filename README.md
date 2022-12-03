@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![banner](./img/github-profile.png);
+![banner](github-profile.png);
 
 
 
